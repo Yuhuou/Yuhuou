@@ -25,7 +25,7 @@ public class Developer {
 
 - 🔭 Currently diving deep into **Spring Boot** ecosystem
 - 🌱 Exploring the depths of **C/C++** for low-level understanding
-- 💬 Ask me about **Java, REST APIs, Docker**
+- 🐧 **Linux enthusiast** and daily user
 - 📫 Reach me: [joaojosafa11@proton.me](mailto:joaojosafa11@proton.me)
 - ⚡ Fun fact: I'm a strong believer in open source and free access to knowledge - information wants to be free!
 
@@ -69,7 +69,8 @@ public class Developer {
   ---
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-  
+
+  <sub>*"No matter where you are, everyone is always connected."* 🌐</sub> <br>
   <sub>Built with ❤️ on Linux | Open Source Advocate 🐧</sub>
   
 </div>
