@@ -71,6 +71,6 @@ public class Developer {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
   <sub>*"No matter where you are, everyone is always connected."* 🌐</sub> <br>
-  <sub>Built with ❤️ on Linux | Open Source Advocate 🐧</sub>
+  <sub>Building with ❤️ on Linux | Open Source Advocate 🐧</sub>
   
 </div>
